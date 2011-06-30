@@ -1,3 +1,9 @@
+
+Django Modal
+============
+
 Django Modal is a Django app that should help you get working with modal windows in your views easily.
 
 Read the documentation for usage.
+
+Depends on jQuery <http://jquery.com> and jQuery SimpleModal <http://www.ericmmartin.com/projects/simplemodal/>.
