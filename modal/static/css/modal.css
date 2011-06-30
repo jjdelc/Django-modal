@@ -1,0 +1,26 @@
+#simplemodal-container a.modalCloseImg {
+background: url(../images/x.png) no-repeat;
+display: inline;
+width: 20px;
+height: 20px;
+z-index: 3200;
+position: absolute;
+top: 0px;
+right: 0px;
+cursor:pointer;
+}
+#simplemodal-overlay {
+background-color: #000;
+}
+.make-modal {
+display: none;
+}
+.modal, .make-modal {
+background: #FFF;
+padding: 15px;
+border: 3px solid #CCC;
+-webkit-box-shadow: 2px 2px 10px #000;
+-moz-box-shadow: 2px 2px 10px #000;
+box-shadow: 2px 2px 10px #000;
+}
+
