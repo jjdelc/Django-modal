@@ -1,0 +1,8 @@
+docs/_build
+docs/_static
+docs/_templates
+*.swp
+*.pyc
+*.svn
+*~
+.DS_Store
