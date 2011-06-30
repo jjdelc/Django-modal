@@ -1,4 +1,4 @@
 include AUTHORS README INSTALL LICENCE
 recursive-include modal *.py *.html *.js *.css *.png
 include docs/Makefile
-recursive-include docs/source *
+recursive-include docs *
